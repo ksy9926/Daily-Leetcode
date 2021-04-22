@@ -13,7 +13,7 @@ class Solution:
 
 class Solution(object):
     def strStr(self, haystack, needle):
-       value=haystack.find(needle)
+        value=haystack.find(needle)
         return value
 
 
